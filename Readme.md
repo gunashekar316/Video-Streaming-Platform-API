@@ -1,4 +1,4 @@
-# YouTube Clone Backend
+# Video Streaming Platform API
 
 This is a comprehensive backend API for a video hosting website, built with **Node.js, Express.js, MongoDB, and Mongoose**. It follows standard industry practices including JWT-based authentication (Access & Refresh tokens), secure password hashing (Bcrypt), and file uploads to cloud storage (Cloudinary).
 
