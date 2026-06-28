@@ -1,8 +1,12 @@
 # Video Streaming Platform API
 
+[![Live API](https://img.shields.io/badge/Live_API-Deployed-success?style=for-the-badge&logo=render)](https://video-streaming-platform-api-bweu.onrender.com)
+[![API Documentation](https://img.shields.io/badge/API_Docs-Postman-orange?style=for-the-badge&logo=postman)](https://documenter.getpostman.com/view/53529101/2sBXwyGSaY#intro)
+
 This is a comprehensive backend API for a video hosting website, built with **Node.js, Express.js, MongoDB, and Mongoose**. It follows standard industry practices including JWT-based authentication (Access & Refresh tokens), secure password hashing (Bcrypt), and file uploads to cloud storage (Cloudinary).
 
-All API endpoints are fully implemented and functional!
+> **🔗 Live Server:** [https://video-streaming-platform-api-bweu.onrender.com](https://video-streaming-platform-api-bweu.onrender.com)  
+> **📚 API Documentation:** [View the full Postman Docs here](https://documenter.getpostman.com/view/53529101/2sBXwyGSaY#intro)
 
 ## Features
 
